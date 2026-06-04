@@ -92,6 +92,12 @@ Principais competências:
 * Visualização de Dados
 * Machine Learning (Fundamentos)
 
+<div align="center">
+
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=EnzoRibeiroSilva&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
 ## 📂 Projetos em Destaque
 
 ### Análise de Sentimentos em Avaliações de Clientes
@@ -115,12 +121,6 @@ Link: [Acesso ao Projeto](https://github.com/EnzoRibeiroSilva/Analise_Explorator
 ## Objetivo Profissional
 
 Construir uma carreira sólida em Dados e Tecnologia, atuando em projetos que gerem impacto real através da análise de informações, automação de processos e tomada de decisões orientada por dados.
-
-<div align="center">
-
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=EnzoRibeiroSilva&theme=tokyo-night&hide_border=true"/>
-
-</div>
 
 ## 📫 Vamos nos conectar
 
