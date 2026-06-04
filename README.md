@@ -76,22 +76,6 @@ Sou um profissional em formação com foco em **Análise de Dados, Business Inte
 * Governança e conformidade
 * Suporte em atividades de melhoria contínua
 
-## Formação
-
-### Inteligência e Análise de Dados
-
-**SENAI Suíço-Brasileira**
-
-Principais competências:
-
-* Estatística Aplicada
-* Python para Dados
-* SQL
-* Power BI
-* Data Storytelling
-* Visualização de Dados
-* Machine Learning (Fundamentos)
-
 <div align="center">
 
 <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=EnzoRibeiroSilva&theme=tokyo-night&hide_border=true"/>
