@@ -23,37 +23,6 @@ Sou um profissional em formação com foco em **Análise de Dados, Business Inte
 * Processos Tecnológicos
 * Segurança da Informação
 
-Minha trajetória profissional une conhecimentos de tecnologia, negócios e análise de dados para apoiar tomadas de decisão orientadas por evidências.
-
-## Experiência
-
-### Jovem Aprendiz em Auditoria de TI
-
-**Atuação atual**
-
-* Apoio em processos de auditoria tecnológica
-* Análise de controles internos
-* Documentação de processos
-* Avaliação de riscos
-* Governança e conformidade
-* Suporte em atividades de melhoria contínua
-
-## Formação
-
-### Inteligência e Análise de Dados
-
-**SENAI Suíço-Brasileira**
-
-Principais competências:
-
-* Estatística Aplicada
-* Python para Dados
-* SQL
-* Power BI
-* Data Storytelling
-* Visualização de Dados
-* Machine Learning (Fundamentos)
-
 ## Tech Stack
 
 ### Análise de Dados
@@ -93,6 +62,35 @@ Principais competências:
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Miro](https://img.shields.io/badge/Miro-FFD02F?style=for-the-badge&logo=miro&logoColor=black)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+## Experiência
+
+### Jovem Aprendiz em Auditoria de TI
+
+**Atuação atual**
+
+* Apoio em processos de auditoria tecnológica
+* Análise de controles internos
+* Documentação de processos
+* Avaliação de riscos
+* Governança e conformidade
+* Suporte em atividades de melhoria contínua
+
+## Formação
+
+### Inteligência e Análise de Dados
+
+**SENAI Suíço-Brasileira**
+
+Principais competências:
+
+* Estatística Aplicada
+* Python para Dados
+* SQL
+* Power BI
+* Data Storytelling
+* Visualização de Dados
+* Machine Learning (Fundamentos)
 
 ## 📂 Projetos em Destaque
 
