@@ -82,7 +82,7 @@ Sou um profissional em formação com foco em **Análise de Dados, Business Inte
 
 </div>
 
-## 📂 Projetos em Destaque
+## Projetos em Destaque
 
 ### Análise de Sentimentos em Avaliações de Clientes
 
@@ -106,7 +106,7 @@ Link: [Acesso ao Projeto](https://github.com/EnzoRibeiroSilva/Analise_Explorator
 
 Construir uma carreira sólida em Dados e Tecnologia, atuando em projetos que gerem impacto real através da análise de informações, automação de processos e tomada de decisões orientada por dados.
 
-## 📫 Vamos nos conectar
+## Vamos nos conectar
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/enzo-ribeiro-da-silva/)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:enzo.ribeirosilva005@gmail.com)
