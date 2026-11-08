@@ -14,7 +14,7 @@ Transformando dados em decisões estratégicas através de análise, tecnologia 
 
 ## Sobre Mim
 
-Sou um profissional em formação com foco em **Análise de Dados, Business Intelligence e Auditoria de TI**. Atualmente atuo como **Jovem Aprendiz em Auditoria de TI**, desenvolvendo conhecimentos relacionados a:
+Sou um profissional em formação com foco em **Análise de Dados, Business Intelligence e Auditoria de TI**. Atualmente atuo como **Estagiário em Auditoria de TI**, desenvolvendo conhecimentos relacionados a:
 
 * Governança de TI
 * Gestão de Riscos
@@ -29,16 +29,11 @@ Sou um profissional em formação com foco em **Análise de Dados, Business Inte
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
-![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)
 
 ### Inteligência de Negócios
 
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
-![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white)
 
 ### Desenvolvimento Front-End
 
