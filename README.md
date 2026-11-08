@@ -71,12 +71,6 @@ Sou um profissional em formação com foco em **Análise de Dados, Business Inte
 * Governança e conformidade
 * Suporte em atividades de melhoria contínua
 
-<div align="center">
-
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=EnzoRibeiroSilva&theme=tokyo-night&hide_border=true"/>
-
-</div>
-
 ## Projetos em Destaque
 
 ### Análise de Sentimentos em Avaliações de Clientes
